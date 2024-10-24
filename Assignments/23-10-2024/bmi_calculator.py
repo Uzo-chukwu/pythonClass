@@ -13,7 +13,7 @@ elif bmi > 18.5 and bmi < 25:
 elif bmi > 25 and bmi < 30:
 	print('You are overweight')
 else:
-	print('You are obese')
+	print('You are obese, hit the gym ')
 
 
 

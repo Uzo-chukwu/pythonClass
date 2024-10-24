@@ -1,4 +1,4 @@
-principal=int(input('Enter the principal amount: '))
+  principal=int(input('Enter the principal amount: '))
 
 annual_rate = int(input('Enter the annual interest rate: '))
 
