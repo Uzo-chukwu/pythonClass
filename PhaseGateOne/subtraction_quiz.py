@@ -30,5 +30,5 @@ for count in range(10):
 	else:
 		print("Wrong!")
 
-print("Your score is ",score_count,"/10")
+print("Your score is ",score_count,"/ 10")
 
