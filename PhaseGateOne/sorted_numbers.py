@@ -19,8 +19,6 @@ sorted_numbers.append(third_number)
 
 sorted_numbers.sort()
 
-print(sorted_numbers)
-
 
 for number in sorted_numbers:
 	print(number, end=",")
