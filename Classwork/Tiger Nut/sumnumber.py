@@ -121,5 +121,24 @@ def getsumofodddigits(number):
 def getacronym(phrase): 
 	words = phrase.split()
 	acronym = ''.join(word[0].upper() for word in words)
-	return acronym			
+	return acronym
+
+def getpopulation(country,state):
+	for key in country:
+		if key == state:
+			return  country[key]
+
+country = input("Enter country")
+state = input("Enter state")
+
+
+
+
+
+
+nested_dict = {'dict1': {'foo': 1, 'bar': 2}, 'dict2': {'baz': 3, 'quux': 4}}
+
+for outer_key, inner_dict in nested_dict.items():
+    for inner_key, value in inner_dict.items():
+        print(f"{outer_key} -> {inner_key}: {value}")
 		

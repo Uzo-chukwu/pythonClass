@@ -191,3 +191,5 @@ class TestGetAcronym(unittest.TestCase):
 		expected = 'NBA'
 		self.assertEqual(actual, expected)
 
+class TestGetPopulation(unittest.TestCase):
+	def test_that_get_population_returns_correct_value(self):
