@@ -1,5 +1,5 @@
 import unittest
-from src.tv_app.tv import Television
+from tv.src.tv_app.tv import Television
 
 class MyTestCase(unittest.TestCase):
     def setUp(self):

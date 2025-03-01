@@ -1,8 +1,7 @@
 
 from diaries import Diaries
 import pickle
-import tkinter as tk
-from tkinter import messagebox
+
 
 def save_diaries(diaries, filename="diaries.pkl"):
 
