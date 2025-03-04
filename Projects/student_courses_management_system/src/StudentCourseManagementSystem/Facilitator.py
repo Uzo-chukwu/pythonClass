@@ -5,7 +5,7 @@ from src.StudentCourseManagementSystem.user import User
 
 class Facilitator(User):
 
-    course = []
+    course = None
     def __init__(self, user_name, user_id, email, password, course_name, course_id):
         super().__init__(user_name, user_id, email, password)
         self.__course_name = course_name
@@ -13,17 +13,26 @@ class Facilitator(User):
 
     def create_course(cls, course_title, course_code):
         new_course = Course(course_title, course_code)
-        cls.course.append(new_course)
+        cls.course = new_course
+
+    def view_students(self,course):
+        for student in course.students:
+            print(student.get_user_name)
+
+    def grade_students(self,course):
+
+
+
+
 
 
 
 
     @classmethod
-    def get_courses(cls):
+    def get_course(cls):
         return cls.course
 
-    def get_course_size(cls):
-        return len(cls.course)
+
 
     @property
     def get_course_name(self):
