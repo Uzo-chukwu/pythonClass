@@ -37,7 +37,7 @@ def landing_page(diaries):
     while True:
         choice = input("""
 Welcome to MyDiaryApp!
-Your secrets are private with me 😊
+Your secrets are safe with me 😊
 
 1. Create a new diary
 2. Sign in if you already have a diary
