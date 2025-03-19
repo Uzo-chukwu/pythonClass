@@ -40,7 +40,7 @@ Welcome to MyDiaryApp!
 Your secrets are safe with me 😊
 
 1. Create new diary
-2. Sign in if you already have a diary
+2. Sign in
 3. Exit
 """)
 
