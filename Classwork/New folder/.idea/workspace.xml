@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7892c79-e4da-462c-bf7d-14b5b984069a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../data_structure_and_algorithm/src/dsa/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_structure_and_algorithm/src/dsa/my_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_structure_and_algorithm/tests/dsa/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data_structure_and_algorithm/tests/dsa/test_my_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter 2 exercises/Circumference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter 2 exercises/ascendind_order_sorter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter 2 exercises/heartratecalculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter 2 exercises/integervalue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter 2 exercises/investment_return_calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter 2 exercises/multiples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter 2 exercises/odd_even_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter 2 exercises/operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter 2 exercises/pythonexponent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter 2 exercises/separatingdigits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter 2 exercises/smallestandlargest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter 2 exercises/tableofsquaresandcubes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/13-11-2024/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../13-11-2024/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/13-11-2024/math_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/../13-11-2024/math_quiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/13-11-2024/multiplicationfunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../13-11-2024/multiplicationfunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/13-11-2024/seconds_since_midnight.py" beforeDir="false" afterPath="$PROJECT_DIR$/../13-11-2024/seconds_since_midnight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/13-11-2024/test_seconds_since_midnight.py" beforeDir="false" afterPath="$PROJECT_DIR$/../13-11-2024/test_seconds_since_midnight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/13-11-2024/testmultiplicationfunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../13-11-2024/testmultiplicationfunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/14-11-2024/sum_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/../14-11-2024/sum_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/14-11-2024/test_sum_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/../14-11-2024/test_sum_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/18-11-2024/report_sheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../18-11-2024/report_sheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/5-11-2024/Range.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-11-2024/Range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/5-11-2024/four_astericks_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-11-2024/four_astericks_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/5-11-2024/matchcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-11-2024/matchcase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/5-11-2024/number_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-11-2024/number_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/5-11-2024/prime_number_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-11-2024/prime_number_checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/5-11-2024/right_angle_astericks.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-11-2024/right_angle_astericks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/5-11-2024/score_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-11-2024/score_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/5-11-2024/single_multiplication_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-11-2024/single_multiplication_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/5-11-2024/triangle_number_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-11-2024/triangle_number_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/7-11-2024/Function Snacks/count_occurence.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7-11-2024/Function Snacks/count_occurence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/7-11-2024/Function Snacks/generate_acronym.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7-11-2024/Function Snacks/generate_acronym.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/7-11-2024/Function Snacks/sum_of_even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7-11-2024/Function Snacks/sum_of_even_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/7-11-2024/Function Snacks/vowels_counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7-11-2024/Function Snacks/vowels_counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/TDD/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TDD/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/TDD/test_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TDD/test_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/Tiger Nut/sumnumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiger Nut/sumnumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/Tiger Nut/testsumnumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiger Nut/testsumnumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/area.py" beforeDir="false" afterPath="$PROJECT_DIR$/../area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/evennumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../evennumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/number.py" beforeDir="false" afterPath="$PROJECT_DIR$/../number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/number_di.py" beforeDir="false" afterPath="$PROJECT_DIR$/../number_di.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/number_three.py" beforeDir="false" afterPath="$PROJECT_DIR$/../number_three.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/numberfour.py" beforeDir="false" afterPath="$PROJECT_DIR$/../numberfour.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/numberinverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/../numberinverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/scoreprinter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scoreprinter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class work/welcome.py" beforeDir="false" afterPath="$PROJECT_DIR$/../welcome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PhaseGateOne/Addition_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PhaseGateOne/Addition_quiz.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2tBZikATNzmiJafGWlVwbUtKJAx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/DELL/Desktop/pythonClass/Classwork/data_structure_and_algorithm",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7892c79-e4da-462c-bf7d-14b5b984069a" name="Changes" comment="" />
+      <created>1739827557273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739827557273</updated>
+      <workItem from="1739827558737" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

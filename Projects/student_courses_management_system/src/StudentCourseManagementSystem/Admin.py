@@ -21,10 +21,10 @@ class Admin(User):
     def get_facilitators(cls):
         return cls.facilitators
 
-# admin = Admin("John", "123BD", "john123@gmail.com", "0000")
-# admin.create_facilitator("John", "123BD", "john123@gmail.com", "0000")
-#
-# print(admin.get_facilitator_size())
+admin = Admin("John", "123BD", "john123@gmail.com", "0000")
+admin.create_facilitator("John", "123BD", "john123@gmail.com", "0000","java",123)
+
+print(admin.get_facilitator_size())
 
 
 

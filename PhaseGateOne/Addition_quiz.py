@@ -11,8 +11,6 @@ if the user's inut is same as answer print true
 else print false
 """
 
-
-
 import random
 
 first_number = random.randint(1,100)
