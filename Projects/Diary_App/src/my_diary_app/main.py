@@ -50,7 +50,7 @@ Your secrets are safe with me 😊
             sign_in_and_use_diary(diaries)
         elif choice == "3":
             save_diaries(diaries)
-            print("Goodbye!")
+            print("Goodbye! ")
             break
         else:
             display("Invalid choice. Try again.")
