@@ -39,7 +39,7 @@ def landing_page(diaries):
 Welcome to MyDiaryApp!
 Your secrets are safe with me 😊
 
-1. Create a new diary
+1. Create new diary
 2. Sign in if you already have a diary
 3. Exit
 """)
